@@ -96,17 +96,17 @@ jupyter notebook
 <h3>Visualization</h3>
 <div align="center"> 
 <img src="img/4.png"; alt="Result"; width=700;height=350><br> 
-<img src="img/5.png"; alt="Result"; width=700; height=150><br><i> Results of CNN algorithm for Brain MRI classification (a) Accuracy (b) Loss (c) Classification report (d) Confusion Matrix </i> 
+<img src="img/5.png"; alt="Result"; width=900; height=300><br><i> Results of CNN algorithm for Brain MRI classification (a) Accuracy (b) Loss (c) Classification report (d) Confusion Matrix </i> 
 </div><br>
 
 <div align="center"> 
 <img src="img/6.png"; alt="Result"; width=700;height=350><br> 
-<img src="img/7.png"; alt="Result"; width=700; height=150><br><i> Results of Xception algorithm for Brain MRI classification (a) Accuracy (b) Loss (c) Confusion Matrix (d) Classification report  </i> 
+<img src="img/7.png"; alt="Result"; width=900; height=300><br><i> Results of Xception algorithm for Brain MRI classification (a) Accuracy (b) Loss (c) Confusion Matrix (d) Classification report  </i> 
 </div><br>
 
 <div align="center"> 
 <img src="img/8.png"; alt="Result"; width=700;height=350><br> 
-<img src="img/9.png"; alt="Result"; width=700; height=150><br><i> Results of InceptionV3 algorithm for Brain MRI classification (a) Accuracy (b) Loss (c) Confusion Matrix (d) Classification report </i> 
+<img src="img/9.png"; alt="Result"; width=900; height=300><br><i> Results of InceptionV3 algorithm for Brain MRI classification (a) Accuracy (b) Loss (c) Confusion Matrix (d) Classification report </i> 
 </div><br>
 
 ## References
