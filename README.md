@@ -29,7 +29,7 @@ The use of MRI scans, which offer high contrast and detailed visualization of so
 # Path to installation of particular version of python  may vary
 # I have installed more than one version of python in pyver directory
 # Refer the resources section, for youtube video to install multiple versions of python
-C:\Users\<username>\pyver\py3121\python -m venv threatenv
+C:\Users\<username>\pyver\py3121\python -m venv brainenv
 ```
 </div>
 
@@ -37,7 +37,7 @@ C:\Users\<username>\pyver\py3121\python -m venv threatenv
 <div>2. Activate the virtual environment using -
 
 ```bash
-threatenv/Scripts/activate
+brainenv/Scripts/activate
 ```
 </div>
 
